@@ -1,3 +1,35 @@
+# 🚀 High-Performance SEO Log Infrastructure (C++ & Python Hybrid)
+
+### 25 Years of Experience Meets Modern SEO Automation
+
+I am a **Technical SEO Architect** and **Systems Engineer** with a background dating back to the FidoNet and early Rambler era. I don't just "do SEO"—I build the high-speed infrastructure required to analyze enterprise-level data where standard tools fail.
+
+## 🛠 The Problem
+Modern SEO crawlers and Python-only scripts often struggle with multi-gigabyte server logs (`access.log`). They consume too much RAM and take hours to process.
+
+## ⚡ The Solution: Hybrid Engine
+This project demonstrates a high-performance approach to **Crawl Budget Analysis**:
+1.  **C++ Core**: A streaming parser that handles massive log files with minimal memory footprint, filtering bot traffic (Googlebot, Bingbot) at native speeds.
+2.  **Python Wrapper**: An automation layer that takes the optimized stream and performs complex data manipulation.
+3.  **SQL Integration**: Direct injection into **SQLite/PostgreSQL** for deep structural analysis of how search engines interact with your database-driven site.
+
+## 📈 Key Features
+- **Zero-Copy Parsing**: Optimized C++ logic for maximum I/O throughput.
+- **Database-Centric**: Designed for SEOs who understand that search visibility starts at the DB schema level.
+- **Scalable**: Ready for enterprise-level e-commerce platforms with millions of pages.
+
+---
+
+### About the Author
+I've seen the web evolve from the first nodes to the AI era. My specialty is bridging the gap between **low-level systems programming** and **high-level search engine optimization**.
+
+**Skills:** C/C++, Python, SQL/RDBMS Architecture, Technical SEO, AI Video Automation.
+
+---
+*Looking for a Technical SEO lead who understands the "guts" of the internet? Let's connect.*
+
+
+
 ## nginx_googlebot_parser, SQLite & SEO dashboard
 
 A small toolkit for technical analysis of Googlebot visits in Nginx access logs.
